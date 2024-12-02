@@ -1,7 +1,7 @@
 # 木鱼前端
 
 ### 介绍
-![MM](https://img1.baidu.com/it/u=1855316381,3306976367&fm=253&fmt=auto&app=138&f=PNG?w=312&h=309)
+![MM](https://ss2.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3899727677,1927270618&fm=253&gp=0.jpg)
 
 ### 技术栈
 - Vite
